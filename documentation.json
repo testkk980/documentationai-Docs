@@ -37,16 +37,6 @@
                                     "icon": "rocket",
                                     "pages": [
                                       {
-                                        "title": "Introduction",
-                                        "path": "introduction",
-                                        "icon": "home"
-                                      },
-                                      {
-                                        "title": "Quickstart",
-                                        "path": "quickstart",
-                                        "icon": "zap"
-                                      },
-                                      {
                                         "title": "Components",
                                         "path": "components",
                                         "icon": "code"
@@ -173,7 +163,38 @@
                       },
                       {
                         "dropdown": "4321",
-                        "pages": []
+                        "groups": [
+                          {
+                            "group": "new group",
+                            "pages": [
+                              {
+                                "group": "page group",
+                                "pages": []
+                              },
+                              {
+                                "group": "page gorup",
+                                "pages": []
+                              },
+                              {
+                                "title": "New doc",
+                                "path": "new doc"
+                              },
+                              {
+                                "title": "1234",
+                                "path": "1234"
+                              }
+                            ]
+                          },
+                          {
+                            "group": "new group",
+                            "pages": [
+                              {
+                                "title": "doc",
+                                "path": "doc"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
