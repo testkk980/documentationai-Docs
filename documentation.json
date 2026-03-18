@@ -46,7 +46,7 @@
               },
               {
                 "title": "Cards",
-                "path": "components/cards",
+                "path": "components/cards/cards",
                 "icon": "square"
               },
               {
