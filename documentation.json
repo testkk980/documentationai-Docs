@@ -37,6 +37,10 @@
                                     "icon": "rocket",
                                     "pages": [
                                       {
+                                        "title": "New Page Form Navigation",
+                                        "path": "new-page-form-navigation"
+                                      },
+                                      {
                                         "title": "Components",
                                         "path": "components",
                                         "icon": "code"
