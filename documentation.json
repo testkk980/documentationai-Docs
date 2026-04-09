@@ -223,7 +223,25 @@
       },
       {
         "language": "lang2",
-        "pages": []
+        "groups": [
+          {
+            "group": "1234",
+            "pages": [
+              {
+                "title": "Quickstart",
+                "path": "quickstart"
+              },
+              {
+                "title": "Notice",
+                "path": "notice"
+              },
+              {
+                "title": "Concepts",
+                "path": "concepts"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
